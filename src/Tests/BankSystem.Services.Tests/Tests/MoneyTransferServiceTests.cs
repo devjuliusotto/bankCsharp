@@ -30,7 +30,7 @@
         private const string SampleDescription = "I'm sending money due to...";
         private const decimal SampleAmount = 10;
         private const string SampleRecipientName = "test";
-        private const string SampleSenderName = "melik";
+        private const string SampleSenderName = "Julius";
         private const string SampleDestination = "dgsfcx-arq12wasdasdzxxcv";
 
         private const string SampleBankAccountName = "Test bank account name";

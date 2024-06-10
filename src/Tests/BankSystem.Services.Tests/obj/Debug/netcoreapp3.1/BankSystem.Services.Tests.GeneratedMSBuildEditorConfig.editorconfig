@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = BankSystem.Services.Tests
+build_property.ProjectDir = C:\Users\juliu\Downloads\C#\BankSystem\src\Tests\BankSystem.Services.Tests\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

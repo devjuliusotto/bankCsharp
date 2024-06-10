@@ -29,7 +29,7 @@
         private const string SampleNumber = "1017840221397613";
         private const string SampleSecurityCode = "685";
         private const string SampleExpiryDate = "08/22";
-        private const string SampleName = "melik";
+        private const string SampleName = "Julius";
 
         private readonly BankSystemDbContext dbContext;
         private readonly ICardService cardService;

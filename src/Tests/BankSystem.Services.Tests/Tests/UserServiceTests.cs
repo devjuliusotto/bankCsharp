@@ -16,8 +16,8 @@
         }
 
         private const string SampleUserId = "dsgsdg-dsg364tr-egdfb-jfd";
-        private const string SampleUsername = "melik";
-        private const string SampleUserFullName = "Melik Pehlivanov";
+        private const string SampleUsername = "Julius";
+        private const string SampleUserFullName = "Julius Otto";
 
         private readonly BankSystemDbContext dbContext;
         private readonly IUserService userService;
